@@ -12,6 +12,7 @@ textblob==0.15.3
 vaderSentiment==3.3.2
 mysql-connector-python==9.2.0
 numpy==1.26.4
-tensorflow==2.8.0
+tensorflow-cpu==2.4.0
+
 
 
