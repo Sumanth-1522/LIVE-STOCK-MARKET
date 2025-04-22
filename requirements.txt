@@ -11,8 +11,7 @@ tweepy==4.11.0
 textblob==0.15.3
 vaderSentiment==3.3.2
 mysql-connector-python==9.2.0
-numpy==1.26.4
-tensorflow-cpu==2.4.0
-
+numpy==1.26.4tensorflow==2.4.0
+tensorflow==2.4.0
 
 
