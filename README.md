@@ -102,3 +102,9 @@ For a production environment, consider:
 2. Implementing proper authentication for the API
 3. Setting up a more sophisticated scheduling system
 4. Using more advanced machine learning models
+# Executive Budget Tracker
+## Project Demo
+You can view the local version of the project at the following link while it's running:
+
+********[Local Project Link](http://127.0.0.1:8502/)
+
