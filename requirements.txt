@@ -4,7 +4,7 @@ flask-cors==5.0.1
 yfinance==0.2.4
 pandas==2.2.3
 plotly==5.5.0
-prophet==1.1.1
+prophet[cmdstanpy]==1.2.0
 scikit-learn==1.6.1
 matplotlib==3.10.0
 tweepy==4.11.0
@@ -13,7 +13,7 @@ vaderSentiment==3.3.2
 mysql-connector-python==9.2.0
 numpy==1.26.4
 tensorflow==2.15.0
-prophet[cmdstanpy]==1.2.0
+
 
 
 
