@@ -107,4 +107,9 @@ For a production environment, consider:
 You can view the local version of the project at the following link while it's running:
 
 ********[Local Project Link](http://127.0.0.1:8502/)
+## Project Demo Video
+
+You can watch the demo video of the Stock Market Analysis & Prediction Dashboard here:
+
+[Watch the Video](https://github.com/Sumanth-1522/LIVE-STOCK-MARKET/raw/main/Stock%20Market%20Analysis%20%26%20Prediction%20Dashboard%20-%20Google%20Chrome%202025-04-24%2005-16-02%20(1).mp4)
 
